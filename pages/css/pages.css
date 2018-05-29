@@ -15,4 +15,78 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
+h1{
+    color:#c964d7
+}
+
 /* Voeg jouw css hieraan toe */
+
+h2 {
+    font-size: 23px;
+
+}
+
+h2.titel{
+    padding: 2%;
+    background-color: rgb(193, 248, 255);
+    text-align: center;
+}
+
+h3 {
+    color: green;
+    font-size: 20px
+}
+
+h4 {
+    color: #ff0000;
+    font-size: 20px
+}
+
+h5 {
+    font-size: 17px
+}
+
+
+
+div.positief{
+    width: 50;
+    height: auto;
+    border-width: 2px;
+    border-color: rgb(193, 248, 255);
+    border-style: solid;
+    margin: 5px 5px 20px 5px;
+  
+}
+
+div.negatief{
+    width: 50%;
+    height: auto;
+    border-width:2px;
+    border-color: rgb(193, 248, 255);
+    border-style: solid;
+    margin: 5px 5px 20px 5px;
+   
+}
+
+section.Dour{
+    display: flex;
+   
+    
+}
+
+section.pukkelpop{
+    display: flex;
+    
+    
+}
+
+section.Rock Werchter{
+    display: flex;
+    height: 1300px;
+ 
+}
+img{
+    width: 300px;
+    border-radius: 5px;
+   
+}
