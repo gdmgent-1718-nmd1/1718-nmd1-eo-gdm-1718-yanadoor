@@ -28,7 +28,7 @@ h2 {
 
 h2.titel{
     padding: 2%;
-    background-color: #23997F;
+    background-color: rgb(193, 248, 255);
     text-align: center;
 }
 
@@ -52,7 +52,7 @@ div.positief{
     width: 50;
     height: auto;
     border-width: 2px;
-    border-color:#23997F;
+    border-color: rgb(193, 248, 255);
     border-style: solid;
     margin: 5px 5px 20px 5px;
   
@@ -62,7 +62,7 @@ div.negatief{
     width: 50%;
     height: auto;
     border-width:2px;
-    border-color:#23997F;
+    border-color: rgb(193, 248, 255);
     border-style: solid;
     margin: 5px 5px 20px 5px;
    
@@ -82,8 +82,7 @@ section.pukkelpop{
 
 section.Rock Werchter{
     display: flex;
-
- 
+   
 }
 img{
     width: 300px;
@@ -140,15 +139,4 @@ img{
     font-size: 18px;
     color:rgb(0, 0, 0);
     font-family: Karla;
-}
-
-.tekstlink{
-    font-family:Karla;
-    color:#23997F;
-
-}
-
-.actievelink{
-    font-family:Karla;
-    color:#a56aa9;
 }
